@@ -1,0 +1,5 @@
+info = "The weather is nice today"
+sun = info.split()
+print(sun)
+print(sun[4])
+print(info[10:3:-1])
